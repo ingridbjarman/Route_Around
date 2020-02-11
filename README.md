@@ -10,12 +10,10 @@ By entering a start location (or by using location services on your device) and 
 * [Installation](#Install)
 * [Endpoints](#Endpoints)
 * [User Stories](#User_Stories)
-* [Usages](#Usages)
 * [Tech Stack](#Tech_Stack)
-* [Tests](#Jasmine)
-* [Ceremonies](#Ceremonies)
+* [Daily Schedule](#Daily Schedule)
 * [Team](#Team)
-* [Collaboration](#Collaboration)
+* [Miscellaneous](#Miscellaneous)
 
 
 ## <a name="Install">Installation</a>
@@ -54,9 +52,7 @@ To start the web server, run
 - Heroku
 
 
-## <a name="Ceremonies">Ceremonies</a>
-
-## Daily schedule
+## <a name="Daily schedule">Daily schedule</a>
 
 - Standup every morning at 9:30AM
 - Group gathering after lunch every day
