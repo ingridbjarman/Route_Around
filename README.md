@@ -11,7 +11,7 @@ By entering a start location (or by using location services on your device) and 
 * [Endpoints](#Endpoints)
 * [User Stories](#User_Stories)
 * [Tech Stack](#Tech_Stack)
-* [Daily Schedule](#Daily Schedule)
+* [Daily Schedule](#Daily_Schedule)
 * [Team](#Team)
 * [Miscellaneous](#Miscellaneous)
 
@@ -52,8 +52,7 @@ To start the web server, run
 - Heroku
 
 
-## <a name="Daily schedule">Daily schedule</a>
-
+## <a name="Daily_schedule">Daily schedule</a>
 - Standup every morning at 9:30AM
 - Group gathering after lunch every day
 - Retro at 5PM 
