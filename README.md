@@ -1,6 +1,10 @@
-# Route around app.
-An route planning app using the Google Maps API, for urban runners, walkers and dog-walkers.
-:running: :runner: :runner:
+# Route Around
+A route planning app that takes you from A to A - for runners and walkers all over the UK. 
+
+Trying to plan a walk or run at a specific distance, but not quite sure how far to go? Or maybe you're just getting tired of the same old running route every week? 
+
+By entering a start location (or by using location services on your device) and a desired distance, a circular route will be drawn on the map for you to follow, that will take you right back to where you started. 
+
 
 ## Index
 * [Installation](#Install)
@@ -13,9 +17,6 @@ An route planning app using the Google Maps API, for urban runners, walkers and 
 * [Team](#Team)
 * [Collaboration](#Collaboration)
 
-## Quickstart
-### Installation
-First, clone this repository git@github.com:Fantastic-Makers-Group-2-final-Project/Route_Around.git Then:
 
 ## <a name="Install">Installation</a>
 To install all dependencies, run
@@ -36,45 +37,35 @@ To start the web server, run
 ## <a name="User_Stories">User stories:</a>
 |MVP |
 | :--- |
-| `As a user super-fit Makers coach,`<br>`So I know how far I'm running,`<br>`I want to be able to pick a distance.`|
-| `As a nature loving - yoga instructor,`<br>`So I can go for a run and come back home,`<br>`I want to be able to plan a circular route.`|
-| `As a snazzy - dog walker,`<br>`So that I know I'm following my route,`<br>`I want to be able to track my location.`|
+| `As a leisure walker,`<br>`So I can go for a walk and come back home,`<br>`I want to be able to plan route to take me back home`|
+| `As a leisure walker,`<br>`So I can make sure I get the exercise I need,`<br>`I want to be able to pick a distance.`|
+| `As runner training for a race,`<br>`So that I know I'm running the correct distances,`<br>`I want to be able to see how long the route actually is`|
 
-| Nice to haves |
-| :--- |
-| `As a jazzy Makers coach,`<br>`So that I can wear appropriate clothing,`<br>`I want to know what the weather is/will be like.`|
-| `As a super-chilled Makers coach,`<br>`So that I can eat or drink during my walk,`<br>`I want the option to see all cafes and restaurants within 500m of my location on the map.`|
-
-| Stretch |
-| :--- |
-| `As a jazzy Makers coach,`<br>`So that I can choose how long I want to be out,`<br>`I want my route to be based on a time and speed that I choose.`|
-| `As a nature loving - yoga instructor,`<br>`So that I can remember/celebrate the nice walk I took last week,`<br>`I want to be able to view my previous routes.`|
-| `As a user super-fit Makers coach,`<br>`So that I can challenge my friends to compete,`<br>`I want to be able to view a leader-board.`|
 
 ### <a name="Tech_Stack"> Tech Stack </a>
+- JavaScript
+- Node.js
 - React
-- Node
-- Java Script
-- Google API
-- Trello
+- Express
+- Jasmine & Jest
+- Google Maps API
+- Travis CI
+- Git
+- Heroku
 
-## <a name="Jasmine">Tests</a>
 
 ## <a name="Ceremonies">Ceremonies</a>
 
-### standup
-Daily stand-ups were held at 09:30hrs at the whiteboard (Scrummaster role was rotated daily & pairs on a per task/sprint basis.)
+## Daily schedule
 
-### Work breakdown
+- Standup every morning at 9:30AM
+- Group gathering after lunch every day
+- Retro at 5PM 
 
-### estimation
-T-shirt sizing is used to our task estimation and reviewed post-sprint for effectiveness.
+All of the above where led by a scrum master who would be ranomdly picked each day. 
 
-### reviews
-Reviews are led by the day's Scrum-master post-sprint at the whiteboard.
+Pairs where rotated every day, to ensure we all worked with each other and got to work on all layers of the project. 
 
-### Demo
-Demos are scheduled and pitched at the designated Product owners (coaches).
 
 ## <a name="Team"> Team:</a>
 
@@ -83,6 +74,6 @@ Demos are scheduled and pitched at the designated Product owners (coaches).
 | [![Arjun](https://avatars3.githubusercontent.com/u/53835165?s=400&v=4)](http://fvcproductions.com)    | [![Ellie](https://avatars3.githubusercontent.com/u/52325980?s=400&v=4)](http://fvcproductions.com) | [![Alex](https://avatars2.githubusercontent.com/u/53951705?s=400&v=4)](http://fvcproductions.com)  | [![Ingrid](https://avatars2.githubusercontent.com/u/52801530?s=400&v=4)](http://fvcproductions.com)  | [![Robert](https://avatars1.githubusercontent.com/u/42300628?s=400&v=4)](http://fvcproductions.com)  | [![Kehinde](https://avatars3.githubusercontent.com/u/33905131?s=460&v=4)](http://fvcproductions.com)  |
 | <a href="https://github.com/ac4059" target="_blank">`github.com/ac4059`</a> | <a href="https://github.com/eliseaston" target="_blank">`github.com/eliseaston`</a> | <a href="https://github.com/Clifford2910" target="_blank">`github.com/Clifford2910`</a> | <a href="https://github.com/ingridbjarman" target="_blank">`github.com/ingridbjarman`</a> | <a href="https://github.com/robertwoolley99" target="_blank">`github.com/robertwoolley99`</a> | <a href="https://github.com/KOlofinmoyin" target="_blank">`github.com/KOlofinmoyin`</a>
 
-### Collaboration:
-1. Our card wall is here: https://trello.com/b/m2WH1cSw/fantastic-makers-group-2-final-project
-2. Read blogposts of our adventures as a team at: https://medium.com/series/dac42574577d/edit
+### Miscellaneous:
+- Our Trello board can be found at: https://trello.com/b/m2WH1cSw/fantastic-makers-group-2-final-project
+- Read blogposts of our adventures as a team at: https://medium.com/series/dac42574577d/edit
