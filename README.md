@@ -57,8 +57,6 @@ To start the web server, run
 - Group gathering after lunch every day
 - Retro at 5PM 
 
-All of the above where led by a scrum master who would be ranomdly picked each day. 
-
 Pairs where rotated every day, to ensure we all worked with each other and got to work on all layers of the project. 
 
 
